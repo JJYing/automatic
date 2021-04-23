@@ -8,3 +8,5 @@ fields:
     required: false
   label: '123'
   description: '123'
+pages:
+- content/12313.md
