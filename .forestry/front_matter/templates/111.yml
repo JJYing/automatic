@@ -1,4 +1,10 @@
 ---
 label: '111'
 hide_body: true
-fields: []
+fields:
+- name: '123'
+  type: text
+  config:
+    required: false
+  label: '123'
+  description: '123'
